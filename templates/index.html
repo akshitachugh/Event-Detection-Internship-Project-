@@ -1,0 +1,30 @@
+
+{% extends "layout.html" %}
+{% block content %}
+ <div class="Home">
+	<h1>Predict Event in a Conference Hall </h1>   
+
+     <!-- Main Input For Receiving Query to our ML -->
+   
+        <form action="{{ url_for('predict')}}" method = "post">
+         
+    	<input type="number" name="Count"  placeholder="Count" required="required" min = "0"/>
+        <input type="number" id="choose"name="dayofweek" placeholder="dayofweek(Monday = 0 , Tuesday =1,Wednesday =2" required="required" min = "0"  max = "6"/>
+		<input type="number" id="choose"name="weekdayFlag" placeholder="weekdayFlag(1 if day of week from Monday to Friday else 0)" required="required" min = "0" max = "1" />
+        <input type="number" id="choose"name="month" placeholder="month(1 if month is Jan and 2 if month is Feb)" required="required" min = "1" max = "12"  />
+        <input type="number" name="Timenew" step=0.01 placeholder="Timenew" required="required" />
+<button type="submit"  class="btn btn-primary btn-block btn-large">Predict</button>
+          
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+{% endblock %}
+
+
+   >
+      

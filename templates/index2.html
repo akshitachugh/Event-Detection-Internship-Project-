@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+ <div class="Bulk Upload">
+
+    {% if data %}
+    <p>Data Found!!!</p>
+    {% endif %}
+    <h1>Upload CSV File for Bulk Upload</h1>
+    <form action="{{ url_for('prediction')}}"method="post" 
+    <form method=post enctype=multipart/form-data>
+      <input type=file name=file accept = csv>
+      
+      <button type="submit"  class="btn btn-primary btn-block btn-large">Upload</button>
+    </form>
+     
+   </div>
+   
+{% endblock %}
