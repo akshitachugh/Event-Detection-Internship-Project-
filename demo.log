@@ -1,0 +1,73 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:16] "[37mGET /uploads HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:39] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:40] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:41] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:41] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:46] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:47] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:13:48] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\akshu\\ML\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:11] "[37mGET /uploads HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:25] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:25] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:25] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:18:26] "[37mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\akshu\\ML\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\akshu\\ML\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:22:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:22:40] "[37mGET /uploads HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:22:52] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\akshu\\ML\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:27:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:27:31] "[37mPOST /prediction HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-373-718
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:43:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:45:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:46:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:46:40] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:46:47] "[37mGET /uploads HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:46:49] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:47:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app1:Processing default request
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:47:35] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2020 19:47:37] "[37mGET /uploads HTTP/1.1[0m" 200 -
